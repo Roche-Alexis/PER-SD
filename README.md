@@ -35,6 +35,10 @@ Vous pouvez également lancer les scripts manuellement en se rendant dans le dos
 ![Image de notre menu principal](./img/pic.png)
 
 
+## Problèmes possibles
+
+Nos scripts requièrent l'accès à une caméra fonctionnelle. Cet accès peut être restreint dans les environnements de virtualisation ou si les permissions adéquates ne sont pas accordées au programme. Pour une expérience optimale, nous recommandons d'exécuter ces scripts sur un système d'exploitation installé directement sur le matériel physique (bare metal). 
+
 
 ## Crédits
 
