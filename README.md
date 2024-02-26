@@ -35,7 +35,8 @@ Vous pouvez également lancer les scripts manuellement en se rendant dans le dos
 ![Image de notre menu principal](./img/pic.png)
 
 
-Nos 2 transformers pour les lettres peuvent classifier l'ensemble des lettres hormis le "J" et le "Z"
+Nos 2 transformers pour les lettres peuvent classifier l'ensemble des lettres hormis le "J" et le "Z".
+
 Notre modèle pour les mots peut différencier 3 mots : "yes", "no", "eat"
 ![Image alphabet](./img/asl.png)
 
